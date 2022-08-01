@@ -9,3 +9,4 @@ test2
 Creating a new branch is quick.
 这是在dev里还是在master里？
 在master里
+bug分支测试
