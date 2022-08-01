@@ -7,4 +7,4 @@ My stupid boss still prefers SVN.
 test
 test2
 Creating a new branch is quick and simple.
-这是在dev里还是在master里？
+这是在dev里还是在master里？已解决
